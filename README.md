@@ -1,4 +1,4 @@
-# :carousel_horse: User Input en Java
+# :paperclip: User Input en Java
 
 ### Introducción
 Este archivo contiene varios ejercicios para poder practicar el uso de la clase Scanner. Dentro de cada archivo, se encuentran las instrucciones específicas. Vamos a resolver los ejercicios en el siguiente orden:
